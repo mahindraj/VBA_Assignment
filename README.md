@@ -1,6 +1,6 @@
 # VBA_Assignment
-This challenge is to practice VBA scripting to analyze stock market date over three years. 
-The goals to achieve were: 
+This challenge is to practice VBA scripting to analyze stock market data over three years. 
+The goal is to write a script to achieve generating: 
 1. the ticker symbol
 2. The Yearly change and Percentage change from closing price at end of that year to the opening price at the beginning of that year
 3. Total Sotck Volume of the Stock
