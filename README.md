@@ -3,7 +3,7 @@ This challenge is to practice VBA scripting to analyze stock market data over th
 The goal is to write a script to achieve generating: 
 1. the ticker symbol
 2. The Yearly change and Percentage change from closing price at end of that year to the opening price at the beginning of that year
-3. Total Stock Volume of the Stock
+3. Total Stock Volume 
 4. Generate functionality to the script to return the stock with both the Greatest % increase, Greatest % decrease along with the greteast total volume
 
 To conduct this assignment and generate code my script, I relied on various sources including Google, Stack Overflow, as well as refering to the different exerices from Module 2. I was able to create the script by first define the "What" and then break it down step by step in order to write my script:
