@@ -16,7 +16,7 @@ To conduct this assignment and generate code my script, I relied on various sour
 7. Calculate both Yearly and Percentage Change
 8. Conditional Formatting (ColorIndex=3 for red for negative values and ColorIndex=4 for green for positive values)
 9. Calculate and write total volume
-10. Preperare summary for GreatVolume, Greatest % Increase, and Greatest % Decrease
+10. Preperare summary for Great Stock Volume, Greatest % Increase, and Greatest % Decrease
 11. Loop for summary
 12. For greatest increase - must check if next value is larger - if yes, take over a new value and populate
 13. For greatest decrease - must check if next value is smaller - if yes, take over a new value and populate
